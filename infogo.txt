@@ -1,0 +1,1 @@
+go build <namafile.go>   => untuk build filenya
