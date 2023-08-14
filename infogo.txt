@@ -1,1 +1,4 @@
-go build <namafile.go>   => untuk build filenya
+go build <namafile.go>   => untuk build filenya => lalu run dengan terminal "./filehasilbuild"
+go run namafile.go => running tanpa build dulu
+
+running extension : alt+control+n
