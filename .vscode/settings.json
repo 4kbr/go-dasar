@@ -3,4 +3,5 @@
   "gopls": {
     "ui.semanticTokens": true
   },
+  "window.zoomLevel": 0.5
 }
