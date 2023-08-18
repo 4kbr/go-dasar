@@ -1,7 +1,7 @@
 {
   "files.autoSave": "afterDelay",
   "gopls": {
-    "ui.semanticTokens": true
+    "ui.semanticTokens": true,
   },
   "window.zoomLevel": 0.5
 }
