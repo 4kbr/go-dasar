@@ -19,5 +19,6 @@ func main() {
 	fmt.Println(strings.ToUpper("Aku Bukan Herman"))                  //AKU BUKAN HERMAN
 	fmt.Println(strings.ToTitle("Aku Bukan Herman"))                  //AKU BUKAN HERMAN
 	fmt.Println(strings.Trim("     Aku Bukan Herman   a      ", " ")) //Aku Bukan Herman  a
+	fmt.Println(strings.ReplaceAll("Aku Bukan Aku", "Aku", "Oke"))    //Oke Bukan Oke
 
 }
